@@ -15,7 +15,7 @@ struct ContentView: View {
         
         ProgressView(value: 0.5)
         
-        ProgressView()
+//        ProgressView()
         
 //        Slider(value: $sliderValue)
     }
