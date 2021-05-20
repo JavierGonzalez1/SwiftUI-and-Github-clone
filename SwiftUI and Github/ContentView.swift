@@ -13,7 +13,7 @@ struct ContentView: View {
         
 //        @State private var sliderValue = 0.0
         
-//        ProgressView(value: 0.5)
+        ProgressView(value: 0.5)
         
 //        ProgressView()
         
